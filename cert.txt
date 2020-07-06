@@ -1,0 +1,975 @@
+{ tagClass: 0,
+  type: 16,
+  constructed: true,
+  composed: true,
+  value: 
+   [ { tagClass: 0,
+       type: 2,
+       constructed: false,
+       composed: false,
+       value: '\u0003' },
+     { tagClass: 0,
+       type: 16,
+       constructed: true,
+       composed: true,
+       value: [Array] },
+     { tagClass: 0,
+       type: 16,
+       constructed: true,
+       composed: true,
+       value: [Array] } ] }
+safeContents 1
+safeBag.type: 1.2.840.113549.1.12.10.1.2
+localKeyId: 56fa4f2dfbf64992ffbe9070487f043380c61889
+found private key
+safeContents 2
+safeBag.type: 1.2.840.113549.1.12.10.1.3
+localKeyId: 56fa4f2dfbf64992ffbe9070487f043380c61889
+found certificate
+safeBag.type: 1.2.840.113549.1.12.10.1.3
+safeBag.type: 1.2.840.113549.1.12.10.1.3
+
+PKCS#12 Info:
+
+Local Key ID: 56fa4f2dfbf64992ffbe9070487f043380c61889
+
+Private Key:
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA4eEEeerko8Ju0pD1By38PUjHxpcXafntU2O4k5kJlUzILF4f
+iebHYQrekmmYvVPXM+6EoYko3kDlAGt5WvHAILHWVTJWRcoVZnUojp9At4vor5n8
+i8oqmgvGUd2QY1eY+LCaETolB5peUQKkE9uw5nhg0fzwVIBKghOXIOzemIYkQ4YQ
+8730/yRrm20tRfPs5JblMHKxXFIwFNLsXP7UjUPkPYNONPZpMJkyBqmtLYPKGbl/
+nSbMQMWDincCfZ29PuwJ4SbI4nj+BBeYSsXl8lgBuIqHwgi2HRfqjvcMskGwnavV
+YvPhdM2fJNNPvmgyxDRtnmU5paR9KhkW4AIewwIDAQABAoIBACBMbTfuYG2RgV2c
+UF/g8aG6ak/uzfB08OciKhlM4k5rfBoVXBF7eESw6bI/kDwjpMZDvnUHaFpzfBYL
+HX9ldHwYVytijGyOoMXATfbViyBTzLIYukCA6DDpKx1h/wyoJh21dFUEnpk6N8Ss
+tH/fGP9eSjXsowQ/k1KLRj/KhGqESxcRql7DD3NuLEb096IrJfK7SCQ3/QvNB4QD
+t6F835zhqIhh3wYIzu5J5740aMtc0BioxS0j+LxiPdIuPrclJzFVUF7ksCIyz1nd
+9xRTZAq6fOf1EMX8RbpmV6+4MdNu6Fs6Lp5I6657Bdo4+FmUX3Vw2uoPT8qMEgBp
+U0+h2iUCgYEA93STBNoctCuA1lJ5hD0Z5y8DA+cH5Rzc10ej28DLEv++oHamGSCM
+Nj9eVQzdunMHFntdY/5TJKGEPNsmWKgfgMseM1D96JK76GEGkgAchMVXUiXzRnhv
+XNTZhlyMQbQltvqkolHZGXJybHQV2KCSbOl6C3yq/is/QV+pFYSlZd8CgYEA6a22
+/saKQBbiDal6LOc2DYsu5gftn/UwMAvwsb0jZP0MHfaYdJnRJa+acorffCg1+Opk
+vqyFyw/T7k39K1ZQX7mAMyfj89xJLsTkGOjv/HTLCyg78q3U2tY+lIw90Bj5e6cC
+y+I55IXKWYjBlXFKHSrUPAjoWCgWBi8/5tBv+50CgYEAlXFelJCQwzJ+pXC7mGQ6
+L4cRwBqXhwOOT6khSUa+naO74TamiwhABUbx1lVl1wM+5ZHtTcU7OyUcMpB7MRGf
+rO1+OKmSHhH3z5hBGo1cq8ZuPNtUd1umjZ6yG9XqkoeUO1RVdv4NKbQXbG4S/3fB
+1mqOXT+WGNfPZNC70ZYBOWsCgYAaSgXVYea50Rk7aj6pgJWPLoJnNKsiHMaAEUfR
+5zJtMR7E3DJIo+losPnSOxdrc2anC0+sN+KRdsVkAPgjgQFn04m9t5YooDbHgTUc
+LFCbeVRCfBNKeQ4CVKoTsjdeCwE+TQq+f0P+FqMuMXl945Hv+BqKaoIhMNlRds1c
+nUSL7QKBgQCUsM5pWfKEEZHakvs4K5NRZVI7dvR3t21Z2xDoGxxYQwl3Ds0voWur
+VfQgV+IcfNmSx808HZTTsmRDBZ+Y6+7RCZTQQLyqwuV1ZSfezT7geX74b62GA5GI
+pzkFuVu9IF07ab9ncUOLKCPEkNyuLosxRoJkrOw1Lp9rpgoEN8IJXw==
+-----END RSA PRIVATE KEY-----
+
+Encrypted Private Key (password: "2oT2546BfPzd"):
+-----BEGIN ENCRYPTED PRIVATE KEY-----
+MIIFHzBJBgkqhkiG9w0BBQ0wPDAbBgkqhkiG9w0BBQwwDgQI3dWYdZYQeEoCAggA
+MB0GCWCGSAFlAwQBAgQQrP9mL8LgW2wV1+jW0vag0ASCBNAPJdokPsOQAGSyiGUx
+STtj5AkSnj+iY2Kr5jht2JEvQbddeDqKwmCmteIeBe30PABf5+q2erfMK/wv8QN2
+W1p8NS5Ts4Kd2GtQNxwJlmg/4tjWqc4XD6e9s5jgXjsFmh/RKCki7zzx1/C2Gm2b
+V3yGUcxkglaGEjYu63O8YoJc0r6KvaLmVnRKpg54oeaIpR1gGGNyDUnCOgoxpeIn
+6PB157tzyxsGE2u0f8kxXZrAaxayHDTDpCWFOC7eaTgvZrOjr9ypUoWUGBB0Nnzs
+CSRemE9HMieY+6pyqUpRnqV/gf8rznycOFSoe5aO+vPZiQQzObHk/utiiiVjo95/
+QpcSw4xBjiLHNPVNyCooxj3uMb+vbW/W5R+IOs6nONmlvEkzdV7WIW2wIiZetaFg
+Zgp6cyImsivhYr3F3WwfjLOW8qFSfcc3h+pqK1iBtfk/h8I9bQus9hQpJFs2kEk2
+kwE26ZS21JAhKS/A0RtM3vj/IN9xhMZvQBnZOHSuSEDPsBxY7ZUGRa2eUW72Kd2t
+ZWFsETmrV7msWr/1wO/MgMBUdPxtJKUtD/TMUqZj7VZ7+mmLmYc333+qqbhh30G9
+9mpd3aj3/LHHq14W3IwLN3lPMHW9hNi1J/aWyjxLRR9WY7btyjjlCkH8QZFMVP04
+jkcB//cEh1/V5RduCaEr/WokzoSTmoqAxyvtXoU6CX0Iwo+py1LNcqDKJ3G92Eol
+aysOo9Fzt/U3n16oe3eUFPBhCyT0YnT8UhW0Vtry/b4Ru2XfCoHdDAAWvo9vdZ+S
+UJhwlgFTeVwErCtzyAK+gZ8+22zboOkO820fro6IOziEes3KDjQzLvTs1bzwf8xb
+DuN9vwrLJr3Sxi23tFdWERk8Pwa8dbTq0RdqKYobbLC2QSQE9ce8xnL6q0pK6fLO
+lyFfbNUpLPLCelf04zDE6kQjpBFSe/28hwT7+3kRSlEDnIPKGxgQoyyO0flmoa/3
+8qt+CasE7LC/LwmoCoORzOPzVB8yOu+67PTd1p80DUSy2ezGduw9wnozh5Zwry6F
+cfQdnnRssiFmUnKMctGqTfR63h68mIhxdfruoqeUdN+BZm3aPa6wHDPTYEatOTzQ
+e13Qam+s2Efq6l8L6o6t7OrW0RO68Qa4jA1P9TwHs3C56w23HWIrKD7vK1jiyY0I
+NzLCavg+6gDt/jw8s4qw96j+Ai0BWXGniIefhigxBS+9nO6pm3C7BG831e2WZ38x
+u/r73pZYFEYm34qNbMn/+ALRsHyrY65h5/kxGDmhS/Sy3D+fmUfyu57vSWnlB3RA
+8bkbelSi/DqoxhJ0FZ4weM7SXLftaIstGXC0pvyzHaeNglXcHCWGMsekptd6dQ5J
+JNs2r9cpNhnAOjxwwwAI4yzAuehdwF5kLM8mtam8qz3w2OImb9+M3Xnhtd1+H+lg
+jizNrprtATXguzT4TPaxSZkFhto+vDfFQhgOSc3rKsFW6zoaBUg0BOJNjT4pXxyO
+xS6y4v35E0h45p7fJ2Iy/hQHYxAHcRPmYDcdcFj5PGF04djeTlmZZ+54XH6fMnzl
+p5L545F9snWOhUXm/UZoI5LD6drJSYLiLGyTPZASjKPqcM5xPsG9EKWfCCL9OOIV
+q44Ab2aw1RMYnxMZ1dP9h8Iw/w==
+-----END ENCRYPTED PRIVATE KEY-----
+
+Certificate chain:
+-----BEGIN CERTIFICATE-----
+MIIE5jCCA86gAwIBAgIQPbKVPSBd4aFpDP34c6nGKzANBgkqhkiG9w0BAQsFADCB
+jTELMAkGA1UEBhMCSVQxEDAOBgNVBAgMB0JlcmdhbW8xGTAXBgNVBAcMEFBvbnRl
+IFNhbiBQaWV0cm8xIzAhBgNVBAoMGkFjdGFsaXMgUy5wLkEuLzAzMzU4NTIwOTY3
+MSwwKgYDVQQDDCNBY3RhbGlzIENsaWVudCBBdXRoZW50aWNhdGlvbiBDQSBHMjAe
+Fw0yMDA2MjAwNTU5MTZaFw0yMTA2MjAwNTU5MTZaMBsxGTAXBgNVBAMMEGVzaGl0
+YUB0a2QuY29kZXMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDh4QR5
+6uSjwm7SkPUHLfw9SMfGlxdp+e1TY7iTmQmVTMgsXh+J5sdhCt6SaZi9U9cz7oSh
+iSjeQOUAa3la8cAgsdZVMlZFyhVmdSiOn0C3i+ivmfyLyiqaC8ZR3ZBjV5j4sJoR
+OiUHml5RAqQT27DmeGDR/PBUgEqCE5cg7N6YhiRDhhDzvfT/JGubbS1F8+zkluUw
+crFcUjAU0uxc/tSNQ+Q9g0409mkwmTIGqa0tg8oZuX+dJsxAxYOKdwJ9nb0+7Anh
+JsjieP4EF5hKxeXyWAG4iofCCLYdF+qO9wyyQbCdq9Vi8+F0zZ8k00++aDLENG2e
+ZTmlpH0qGRbgAh7DAgMBAAGjggGxMIIBrTAMBgNVHRMBAf8EAjAAMB8GA1UdIwQY
+MBaAFGvyjZ5owSUEH1E0V/YWXJTqTWkaMH4GCCsGAQUFBwEBBHIwcDA7BggrBgEF
+BQcwAoYvaHR0cDovL2NhY2VydC5hY3RhbGlzLml0L2NlcnRzL2FjdGFsaXMtYXV0
+Y2xpZzIwMQYIKwYBBQUHMAGGJWh0dHA6Ly9vY3NwMDkuYWN0YWxpcy5pdC9WQS9B
+VVRIQ0wtRzIwGwYDVR0RBBQwEoEQZXNoaXRhQHRrZC5jb2RlczBHBgNVHSAEQDA+
+MDwGBiuBHwEYATAyMDAGCCsGAQUFBwIBFiRodHRwczovL3d3dy5hY3RhbGlzLml0
+L2FyZWEtZG93bmxvYWQwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMEgG
+A1UdHwRBMD8wPaA7oDmGN2h0dHA6Ly9jcmwwOS5hY3RhbGlzLml0L1JlcG9zaXRv
+cnkvQVVUSENMLUcyL2dldExhc3RDUkwwHQYDVR0OBBYEFFb6Ty379kmS/76QcEh/
+BDOAxhiJMA4GA1UdDwEB/wQEAwIFoDANBgkqhkiG9w0BAQsFAAOCAQEAC0XOj9S1
+w61u7Cko026FGEwCQ/UU2UZEH+KG7AtpsYAqIkgNOc/JI1jpGTdt2ne+wjLCQDut
+qel45O6YGFswCoQ+0aFmJkC45MM99RIPkyMwYr+NasTKxC0xWA1Wy7sx4j/Xv3uM
+ftmhxOTG5iZSORLWu5FIWOO6zAcY+OkcVJLxnKverrmnM7Pk/Wst+T+n9XyEYqrR
+shQmTmEEfOhoZWod8IrQh/ZbouA4peTkcRxP+CkGXzoDfm/G6JNQGl2wP/Ji0LcT
+tUFnvXQNecV7tY+3zymK7ew9HIg63oQGLWFubopgkog7xvCIsVq5mD2YVO0q78Sx
+1xloOF5foTxS4A==
+-----END CERTIFICATE-----
+
+
+
+
+{
+    "version": 2,
+    "serialNumber": "3db2953d205de1a1690cfdf873a9c62b",
+    "signatureOid": "1.2.840.113549.1.1.11",
+    "signature": "\u000bEÎÔµÃ­nì)(Ón\u0018L\u0002Cõ\u0014ÙFD\u001fâì\u000bi±*\"H\r9ÏÉ#Xé\u00197mÚw¾Â2Â@;­©éxäî\u0018[0\n>Ñ¡f&@¸äÃ=õ\u0012\u000f#0b¿jÄÊÄ-1X\rVË»1â?×¿{~Ù¡ÄäÆæ&R9\u0012Ö»HXãºÌ\u0007\u0018øé\u001cTñ«Þ®¹§3³äýk-ù?§õ|bªÑ²\u0014&Na\u0004|èhej\u001dðÐö[¢à8¥ääq\u001cOø)\u0006_:\u0003~oÆèP\u001a]°?òbÐ·\u0013µAg½t\ryÅ{µ·Ï)íì=\u001c:Þ\u0006-ann`;Æð±Z¹=Tí*ïÄ±×\u0019h8^_¡<Rà",
+    "siginfo": {
+        "algorithmOid": "1.2.840.113549.1.1.11",
+        "parameters": {}
+    },
+    "validity": {
+        "notBefore": "2020-06-20T05:59:16.000Z",
+        "notAfter": "2021-06-20T05:59:16.000Z"
+    },
+    "issuer": {
+        "attributes": [
+            {
+                "type": "2.5.4.6",
+                "value": "IT",
+                "valueTagClass": 19,
+                "name": "countryName",
+                "shortName": "C"
+            },
+            {
+                "type": "2.5.4.8",
+                "value": "Bergamo",
+                "valueTagClass": 12,
+                "name": "stateOrProvinceName",
+                "shortName": "ST"
+            },
+            {
+                "type": "2.5.4.7",
+                "value": "Ponte San Pietro",
+                "valueTagClass": 12,
+                "name": "localityName",
+                "shortName": "L"
+            },
+            {
+                "type": "2.5.4.10",
+                "value": "Actalis S.p.A./03358520967",
+                "valueTagClass": 12,
+                "name": "organizationName",
+                "shortName": "O"
+            },
+            {
+                "type": "2.5.4.3",
+                "value": "Actalis Client Authentication CA G2",
+                "valueTagClass": 12,
+                "name": "commonName",
+                "shortName": "CN"
+            }
+        ],
+        "hash": "1b460194e026c54328e95cc97899acb6a5c70a75"
+    },
+    "subject": {
+        "attributes": [
+            {
+                "type": "2.5.4.3",
+                "value": "eshita@tkd.codes",
+                "valueTagClass": 12,
+                "name": "commonName",
+                "shortName": "CN"
+            }
+        ],
+        "hash": "64581a16c7ff9554decb71a5d44bb232f40bae59"
+    },
+    "extensions": [
+        {
+            "id": "2.5.29.19",
+            "critical": true,
+            "value": "0\u0000",
+            "name": "basicConstraints",
+            "cA": false
+        },
+        {
+            "id": "2.5.29.35",
+            "critical": false,
+            "value": "0\u0016\u0014kòhÁ%\u0004\u001fQ4Wö\u0016\\êMi\u001a",
+            "name": "authorityKeyIdentifier"
+        },
+        {
+            "id": "1.3.6.1.5.5.7.1.1",
+            "critical": false,
+            "value": "0p0;\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002/http://cacert.actalis.it/certs/actalis-autclig201\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001%http://ocsp09.actalis.it/VA/AUTHCL-G2",
+            "name": "authorityInfoAccess"
+        },
+        {
+            "id": "2.5.29.17",
+            "critical": false,
+            "value": "0\u0012\u0010eshita@tkd.codes",
+            "name": "subjectAltName",
+            "altNames": [
+                {
+                    "type": 1,
+                    "value": "eshita@tkd.codes"
+                }
+            ]
+        },
+        {
+            "id": "2.5.29.32",
+            "critical": false,
+            "value": "0>0<\u0006\u0006+\u001f\u0001\u0018\u00010200\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0002\u0001\u0016$https://www.actalis.it/area-download",
+            "name": "certificatePolicies"
+        },
+        {
+            "id": "2.5.29.37",
+            "critical": false,
+            "value": "0\u0014\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u0002\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u0004",
+            "name": "extKeyUsage",
+            "clientAuth": true,
+            "emailProtection": true
+        },
+        {
+            "id": "2.5.29.31",
+            "critical": false,
+            "value": "0?0= ; 97http://crl09.actalis.it/Repository/AUTHCL-G2/getLastCRL",
+            "name": "cRLDistributionPoints"
+        },
+        {
+            "id": "2.5.29.14",
+            "critical": false,
+            "value": "\u0004\u0014VúO-ûöIÿ¾pH\u00043Æ\u0018",
+            "name": "subjectKeyIdentifier",
+            "subjectKeyIdentifier": "56fa4f2dfbf64992ffbe9070487f043380c61889"
+        },
+        {
+            "id": "2.5.29.15",
+            "critical": true,
+            "value": "\u0003\u0002\u0005 ",
+            "name": "keyUsage",
+            "digitalSignature": true,
+            "nonRepudiation": false,
+            "keyEncipherment": true,
+            "dataEncipherment": false,
+            "keyAgreement": false,
+            "keyCertSign": false,
+            "cRLSign": false,
+            "encipherOnly": false,
+            "decipherOnly": false
+        }
+    ],
+    "publicKey": {
+        "n": {
+            "data": [
+                138947,
+                44142958,
+                161850493,
+                114943571,
+                137544756,
+                221576166,
+                80584484,
+                103759383,
+                10333141,
+                13313051,
+                132812535,
+                9134545,
+                143296450,
+                254115867,
+                139118053,
+                266355065,
+                113828472,
+                247504402,
+                228441406,
+                145190951,
+                205571459,
+                133812844,
+                63576505,
+                177918680,
+                10039814,
+                55535251,
+                71140174,
+                222876734,
+                49044734,
+                86180173,
+                7516508,
+                239693395,
+                222688236,
+                112834258,
+                234159908,
+                140578619,
+                143008835,
+                34524649,
+                176296855,
+                252004356,
+                140562940,
+                230362727,
+                16950291,
+                7972325,
+                168901157,
+                160402185,
+                227566423,
+                12346653,
+                197798554,
+                184131528,
+                12028904,
+                42527220,
+                169174645,
+                52782172,
+                11654741,
+                95362050,
+                83913593,
+                42853390,
+                243573129,
+                87913278,
+                40474813,
+                101756393,
+                260695751,
+                209896929,
+                151622988,
+                104565049,
+                167374163,
+                208236918,
+                205342919,
+                256930527,
+                40817296,
+                246303292,
+                31523961,
+                14
+            ],
+            "t": 74,
+            "s": 0
+        },
+        "e": {
+            "data": [
+                65537
+            ],
+            "t": 1,
+            "s": 0
+        }
+    },
+    "md": {
+        "algorithm": "sha256",
+        "blockLength": 64,
+        "digestLength": 32,
+        "messageLength": 978,
+        "fullMessageLength": [
+            0,
+            978
+        ],
+        "messageLengthSize": 8,
+        "messageLength64": [
+            0,
+            978
+        ]
+    },
+    "signatureParameters": {},
+    "tbsCertificate": {
+        "tagClass": 0,
+        "type": 16,
+        "constructed": true,
+        "composed": true,
+        "value": [
+            {
+                "tagClass": 128,
+                "type": 0,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 2,
+                        "constructed": false,
+                        "composed": false,
+                        "value": "\u0002"
+                    }
+                ]
+            },
+            {
+                "tagClass": 0,
+                "type": 2,
+                "constructed": false,
+                "composed": false,
+                "value": "=²= ]á¡i\fýøs©Æ+"
+            },
+            {
+                "tagClass": 0,
+                "type": 16,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 6,
+                        "constructed": false,
+                        "composed": false,
+                        "value": "*H÷\r\u0001\u0001\u000b"
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 5,
+                        "constructed": false,
+                        "composed": false,
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "tagClass": 0,
+                "type": 16,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 17,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u0004\u0006"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 19,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "IT"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 17,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u0004\b"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 12,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "Bergamo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 17,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u0004\u0007"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 12,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "Ponte San Pietro"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 17,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u0004\n"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 12,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "Actalis S.p.A./03358520967"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 17,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u0004\u0003"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 12,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "Actalis Client Authentication CA G2"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tagClass": 0,
+                "type": 16,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 23,
+                        "constructed": false,
+                        "composed": false,
+                        "value": "200620055916Z"
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 23,
+                        "constructed": false,
+                        "composed": false,
+                        "value": "210620055916Z"
+                    }
+                ]
+            },
+            {
+                "tagClass": 0,
+                "type": 16,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 17,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u0004\u0003"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 12,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "eshita@tkd.codes"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "tagClass": 0,
+                "type": 16,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 16,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 6,
+                                "constructed": false,
+                                "composed": false,
+                                "value": "*H÷\r\u0001\u0001\u0001"
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 5,
+                                "constructed": false,
+                                "composed": false,
+                                "value": ""
+                            }
+                        ]
+                    },
+                    {
+                        "tagClass": 0,
+                        "type": 3,
+                        "constructed": false,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 2,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "\u0000áá\u0004yêä£ÂnÒõ\u0007-ü=HÇÆ\u0017iùíSc¸\tLÈ,^\u001fæÇa\nÞi½S×3î¡(Þ@å\u0000kyZñÀ ±ÖU2VEÊ\u0015fu(@·è¯üÊ*\u000bÆQÝcWø°\u0011:%\u0007^Q\u0002¤\u0013Û°æx`ÑüðTJ\u0013 ìÞ$C\u0010ó½ôÿ$km-Eóìäå0r±\\R0\u0014Òì\\þÔCä=N4öi02\u0006©­-Ê\u0019¹&Ì@Åw\u0002}½>ì\tá&Èâxþ\u0004\u0017JÅåòX\u0001¸Â\b¶\u001d\u0017ê÷\f²A°«ÕbóátÍ$ÓO¾h2Ä4me9¥¤}*\u0019\u0016à\u0002\u001eÃ"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 2,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "\u0001\u0000\u0001"
+                                    }
+                                ]
+                            }
+                        ],
+                        "bitStringContents": "\u00000\u0001\n\u0002\u0001\u0001\u0000áá\u0004yêä£ÂnÒõ\u0007-ü=HÇÆ\u0017iùíSc¸\tLÈ,^\u001fæÇa\nÞi½S×3î¡(Þ@å\u0000kyZñÀ ±ÖU2VEÊ\u0015fu(@·è¯üÊ*\u000bÆQÝcWø°\u0011:%\u0007^Q\u0002¤\u0013Û°æx`ÑüðTJ\u0013 ìÞ$C\u0010ó½ôÿ$km-Eóìäå0r±\\R0\u0014Òì\\þÔCä=N4öi02\u0006©­-Ê\u0019¹&Ì@Åw\u0002}½>ì\tá&Èâxþ\u0004\u0017JÅåòX\u0001¸Â\b¶\u001d\u0017ê÷\f²A°«ÕbóátÍ$ÓO¾h2Ä4me9¥¤}*\u0019\u0016à\u0002\u001eÃ\u0002\u0003\u0001\u0000\u0001",
+                        "original": {
+                            "tagClass": 0,
+                            "type": 3,
+                            "constructed": false,
+                            "composed": true,
+                            "value": [
+                                {
+                                    "tagClass": 0,
+                                    "type": 16,
+                                    "constructed": true,
+                                    "composed": true,
+                                    "value": [
+                                        {
+                                            "tagClass": 0,
+                                            "type": 2,
+                                            "constructed": false,
+                                            "composed": false,
+                                            "value": "\u0000áá\u0004yêä£ÂnÒõ\u0007-ü=HÇÆ\u0017iùíSc¸\tLÈ,^\u001fæÇa\nÞi½S×3î¡(Þ@å\u0000kyZñÀ ±ÖU2VEÊ\u0015fu(@·è¯üÊ*\u000bÆQÝcWø°\u0011:%\u0007^Q\u0002¤\u0013Û°æx`ÑüðTJ\u0013 ìÞ$C\u0010ó½ôÿ$km-Eóìäå0r±\\R0\u0014Òì\\þÔCä=N4öi02\u0006©­-Ê\u0019¹&Ì@Åw\u0002}½>ì\tá&Èâxþ\u0004\u0017JÅåòX\u0001¸Â\b¶\u001d\u0017ê÷\f²A°«ÕbóátÍ$ÓO¾h2Ä4me9¥¤}*\u0019\u0016à\u0002\u001eÃ"
+                                        },
+                                        {
+                                            "tagClass": 0,
+                                            "type": 2,
+                                            "constructed": false,
+                                            "composed": false,
+                                            "value": "\u0001\u0000\u0001"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "tagClass": 128,
+                "type": 3,
+                "constructed": true,
+                "composed": true,
+                "value": [
+                    {
+                        "tagClass": 0,
+                        "type": 16,
+                        "constructed": true,
+                        "composed": true,
+                        "value": [
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d\u0013"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 1,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "ÿ"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0\u0000"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d#"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0\u0016\u0014kòhÁ%\u0004\u001fQ4Wö\u0016\\êMi\u001a"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "+\u0006\u0001\u0005\u0005\u0007\u0001\u0001"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0p0;\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0002/http://cacert.actalis.it/certs/actalis-autclig201\u0006\b+\u0006\u0001\u0005\u0005\u00070\u0001%http://ocsp09.actalis.it/VA/AUTHCL-G2"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d\u0011"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0\u0012\u0010eshita@tkd.codes"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d "
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0>0<\u0006\u0006+\u001f\u0001\u0018\u00010200\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0002\u0001\u0016$https://www.actalis.it/area-download"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d%"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0\u0014\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u0002\u0006\b+\u0006\u0001\u0005\u0005\u0007\u0003\u0004"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d\u001f"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "0?0= ; 97http://crl09.actalis.it/Repository/AUTHCL-G2/getLastCRL"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d\u000e"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "\u0004\u0014VúO-ûöIÿ¾pH\u00043Æ\u0018"
+                                    }
+                                ]
+                            },
+                            {
+                                "tagClass": 0,
+                                "type": 16,
+                                "constructed": true,
+                                "composed": true,
+                                "value": [
+                                    {
+                                        "tagClass": 0,
+                                        "type": 6,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "U\u001d\u000f"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 1,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "ÿ"
+                                    },
+                                    {
+                                        "tagClass": 0,
+                                        "type": 4,
+                                        "constructed": false,
+                                        "composed": false,
+                                        "value": "\u0003\u0002\u0005 "
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
+Certificate chain verified:  ReferenceError: caStore is not defined
+    at Object.<anonymous> (/home/tanmoy.das/Desktop Files/BEC-Buster/s-mime-cert-maker/index.js:84:62)
+    at Module._compile (module.js:653:30)
+    at Object.Module._extensions..js (module.js:664:10)
+    at Module.load (module.js:566:32)
+    at tryModuleLoad (module.js:506:12)
+    at Function.Module._load (module.js:498:3)
+    at Function.Module.runMain (module.js:694:10)
+    at startup (bootstrap_node.js:204:16)
+    at bootstrap_node.js:625:3

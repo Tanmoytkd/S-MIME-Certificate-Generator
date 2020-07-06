@@ -1,0 +1,15 @@
+{
+  "name": "s-mime-cert-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateSMimeCert.js",
+  "scripts": {
+    "test": "generateAndValidateCert.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-forge": "^0.9.1"
+  }
+}
